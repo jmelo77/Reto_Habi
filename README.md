@@ -58,18 +58,18 @@ Respuesta del servicio:
 
 + Postman.
 
-![alt text](https://github.com/jmelo77/Reto_Habi/blob/main/documentacion/test_postman_habi_list_properties.png)
+![alt text](https://github.com/jmelo77/Reto_Habi/blob/main/documentation/test_postman_habi_list_properties.png)
 
 + Unitest.
 
-![alt text](https://github.com/jmelo77/Reto_Habi/blob/main/documentacion/unitest_endpoints.png)
+![alt text](https://github.com/jmelo77/Reto_Habi/blob/main/documentation/unitest_endpoints.png)
 
 
 ## Segundo Punto
 
 Se propone el siguiente modelo de base de datos:
 
-![alt text](https://github.com/jmelo77/Reto_Habi/blob/main/documentacion/Diagram_ER_habi_db.png)
+![alt text](https://github.com/jmelo77/Reto_Habi/blob/main/documentation/Diagram_ER_habi_db.png)
 
 Codigo MySQL
 
