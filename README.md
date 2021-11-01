@@ -71,7 +71,7 @@ Se propone el siguiente modelo de base de datos:
 
 ![alt text](https://github.com/jmelo77/Reto_Habi/blob/main/documentation/Diagram_ER_habi_db.png)
 
-Codigo MySQL
++ Código MySQL
 
 /*
 SQLyog Ultimate v8.71 
